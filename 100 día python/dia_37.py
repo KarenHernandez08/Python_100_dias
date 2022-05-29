@@ -1,5 +1,5 @@
 """ 
-        Bienvenido al día 36 de #100díasdepython
+        Bienvenido al día 37 de #100díasdepython
                     El reto de hoy es:
    Utiliza el diccionario del reto anterior para eliminar
    todos los elementos del diccionario sin usar ciclos, 
